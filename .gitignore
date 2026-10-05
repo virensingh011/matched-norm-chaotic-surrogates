@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.bbl
+paper/*.toc
+paper/*.synctex.gz
+paper/main.pdf
+
+# Scratch / local runs
+/results/
+/results_smoke/
+*.tmp
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

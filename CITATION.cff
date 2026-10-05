@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "How Much Compression Can a Learned Chaotic Surrogate Survive? A Matched-Control Study of Pruning, Quantization and Attractor Failure in Lorenz-63 and Rössler Emulators (code and data)"
+type: software
+authors:
+  - family-names: Singh
+    given-names: Viren
+    orcid: "https://orcid.org/0009-0001-6618-0126"
+version: "1.0.0"
+date-released: "2026-10-05"
+license: MIT
+keywords:
+  - neural surrogates
+  - chaotic dynamics
+  - model compression
+  - pruning
+  - quantization
+  - Lyapunov exponent
+doi: "10.5281/zenodo.23157081"
+repository-code: "https://github.com/virensingh011/matched-norm-chaotic-surrogates"

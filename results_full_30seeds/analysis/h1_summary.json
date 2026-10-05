@@ -1,0 +1,18 @@
+{
+ "lorenz": {
+  "models": 10590,
+  "failed": 7246,
+  "failed_share_ratio_lt3": 0.0024841291747170853,
+  "failed_share_ratio_lt10": 0.008694452111509798,
+  "fail_frac_given_ratio_lt3": 0.06040268456375839,
+  "n_ratio_lt3": 298
+ },
+ "rossler": {
+  "models": 7766,
+  "failed": 6132,
+  "failed_share_ratio_lt3": 0.006033920417482061,
+  "failed_share_ratio_lt10": 0.020221787345075015,
+  "fail_frac_given_ratio_lt3": 0.15611814345991562,
+  "n_ratio_lt3": 237
+ }
+}

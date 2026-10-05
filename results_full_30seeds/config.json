@@ -1,0 +1,36 @@
+{
+  "systems": [
+    "lorenz",
+    "rossler"
+  ],
+  "seeds": 30,
+  "seed0": 0,
+  "K": 10,
+  "sparsities": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "bits": [
+    8,
+    6,
+    4,
+    3
+  ],
+  "n_train": 20000,
+  "n_test": 5000,
+  "epochs": 50,
+  "lr": 0.001,
+  "batch": 128,
+  "h": 0.001,
+  "transient": 20.0,
+  "n_transient": 1000,
+  "n_steps": 10000,
+  "collapse_std": 0.05,
+  "vpt_horizon": 500,
+  "n_ic": 20,
+  "n_sens_pts": 3000,
+  "sens_burn": 300,
+  "sens_orbit": "parent",
+  "out": "/home/claude/results_full"
+}

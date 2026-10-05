@@ -1,0 +1,30 @@
+{
+  "lorenz": {
+    "parents": 30,
+    "valid_parents": 30,
+    "parent_lle_mean_valid": 0.8628377736873539,
+    "parent_lle_sd_valid": 0.17390752327358852,
+    "parent_mse_median": 4.935203004032022e-06,
+    "parent_mse_min": 3.308578845957679e-06,
+    "parent_mse_max": 3.3352433857805403e-05,
+    "models": 10590,
+    "diverged": 0.14334277620396602,
+    "collapsed": 0.5408876298394713,
+    "usable_lle": 0.30292728989612844,
+    "n_models_valid_parents": 10590
+  },
+  "rossler": {
+    "parents": 30,
+    "valid_parents": 22,
+    "parent_lle_mean_valid": 0.030594848619397673,
+    "parent_lle_sd_valid": 0.043495579593490534,
+    "parent_mse_median": 1.5493739922673808e-06,
+    "parent_mse_min": 3.247836728946632e-07,
+    "parent_mse_max": 1.927000820115388e-05,
+    "models": 7766,
+    "diverged": 0.5827968065928406,
+    "collapsed": 0.20679886685552407,
+    "usable_lle": 0.21040432655163532,
+    "n_models_valid_parents": 7766
+  }
+}

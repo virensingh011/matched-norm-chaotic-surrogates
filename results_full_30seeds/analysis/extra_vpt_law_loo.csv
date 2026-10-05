@@ -1,0 +1,7 @@
+system,model,loo_R2
+lorenz,M0 constant slope,0.6394387292959407
+lorenz,M1 lam = parent LLE,0.6155127891192747
+lorenz,M2 lam = Jacobian smax rate,0.3314034995128544
+rossler,M0 constant slope,0.7881342733570157
+rossler,M1 lam = parent LLE,0.09702573567156647
+rossler,M2 lam = Jacobian smax rate,0.18523104464721496
